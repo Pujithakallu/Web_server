@@ -1,0 +1,4 @@
+
+WEB SERVER 
+
+A web server commonly known as HTTP server or application server is a program that servers content using the HTTP protocol. This content is generally in the form of HTML documents, images, and other web resources. but can include any type of file. The content served by the web server can be pre- existing (static content) or generated on the fly (dynamic content).
